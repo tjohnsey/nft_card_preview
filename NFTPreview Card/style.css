@@ -33,6 +33,7 @@ p {
 }
 .image_container img {
   max-width: 100%;
+  border-radius: 15px;
 }
 .description h1 {
   color: var(--title);
